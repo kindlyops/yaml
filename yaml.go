@@ -292,7 +292,7 @@ func getStructInfo(st reflect.Type) (*structInfo, error) {
 		if tag != "" {
 			info.Key = tag
 		} else {
-			info.Key = strings.ToLower(field.Name)
+			info.Key = field.Name
 		}
 
 		if _, found = fieldsMap[info.Key]; found {

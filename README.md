@@ -1,5 +1,11 @@
 # YAML support for the Go language
 
+This Repository
+---------------
+
+This repository tracks the upstream v2 branch except it matches object names
+case sensitively.
+
 Introduction
 ------------
 
