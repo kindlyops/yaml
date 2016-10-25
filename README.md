@@ -3,8 +3,9 @@
 This Repository
 ---------------
 
-This repository tracks the upstream v2 branch except it matches object names
-case sensitively.
+For unanticipated business reasons, this has moved to
+https://github.com/sethwklein/yaml . Changing your import paths should be
+enough. My apologies if this move causes any difficulties.
 
 Introduction
 ------------
